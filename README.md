@@ -1,4 +1,82 @@
+👋 Hi, I’m Yaswanth Rahul Yarlagadda
 
+I’m a Full-Stack & AI Engineer who enjoys building things end-to-end—from clean user interfaces to scalable backend systems, and from classical software architecture to modern, LLM-powered intelligence. My journey sits at the intersection of software engineering, cloud, and applied AI, and I’m deeply motivated by problems where technology genuinely improves how people work, decide, or understand complex systems.
+
+Over the past few years, I’ve worked across full-stack development, cloud-native systems, and AI engineering, gaining hands-on experience with React, Angular, .NET, Python, cloud platforms (AWS, Azure, GCP), and modern DevOps workflows. Alongside this, I’ve built a strong specialization in Generative AI, Prompt Engineering, and Retrieval-Augmented Generation (RAG)—not as buzzwords, but as practical tools to solve real problems.
+
+My interest in AI Engineer roles comes from a desire to go beyond “using models” and instead focus on how models think, how prompts shape reasoning, and how systems can be designed to be reliable, explainable, and secure. I actively experiment with prompt design, multi-LLM orchestration, and context engineering to improve answer quality, reduce hallucinations, and build AI systems that behave predictably in production environments.
+
+🧠 What I Build (Selected Work)
+
+My projects reflect a balance between engineering depth and applied intelligence:
+
+3D Pose Estimation for Fatigue Detection (Bachelor’s Thesis)
+
+A research-focused machine learning system designed to detect physical fatigue using low-cost, smartphone-based motion data. Built with Python, TensorFlow/Keras, and OpenMMLab, the system achieved 93% accuracy and demonstrates applications in healthcare, sustainability, ergonomics, and robotics-adjacent motion analysis. This project reflects my strong interest in applied ML, human motion understanding, and real-world impact.
+
+Customer Feedback Analysis Tool
+
+A hybrid rule-based + AI-assisted system built to analyze customer feedback with low latency, fault tolerance, and scalability in mind. The platform processes user messages, performs sentiment analysis, extracts key topics, triggers alerts, and presents insights through a lightweight UI. This project highlights my ability to design practical AI systems that integrate smoothly into production workflows.
+
+CNN vs Capsule Networks – Comparative Research Project
+
+A research-driven study comparing Convolutional Neural Networks (CNNs) and Capsule Networks (CapsNets) for image and pattern recognition tasks. The project evaluated accuracy, robustness, and feature representation, showcasing CapsNet strengths in preserving spatial hierarchies and motivating future applications in computer vision, intelligent systems, and robotics.
+
+Dual-LLM Insight Engine
+
+An AI chatbot system combining multiple large language models with Retrieval-Augmented Generation (RAG) for secure and scalable knowledge retrieval. The project focuses on prompt engineering, multi-LLM orchestration, and cloud-ready architecture, demonstrating how intelligent systems can be made reliable and automation-friendly.
+
+Personal Data RAG Chatbot (Streamlit + Ollama)
+
+A privacy-preserving AI chatbot that enables natural language querying over personal documents using LangChain, FAISS, and locally hosted LLMs. Designed with a strong emphasis on data ownership, cybersecurity awareness, and responsible AI, this project showcases practical RAG implementation beyond cloud-dependent setups.
+
+Intelligent Consent Flow for Medical Care
+
+A Generative AI–powered conversational system that transforms complex medical information into clear, patient-friendly explanations. Built using Streamlit, speech-to-text, and LLMs, the system improves accessibility, trust, and usability in healthcare workflows, highlighting my interest in human-centered AI design.
+
+GamePlan Mobile App
+
+Led the development of a React Native mobile application backed by Firebase, focused on task management and GPS-based attendance tracking. Built using Agile practices and test-driven development, this project reflects my experience in team leadership, mobile development, and end-to-end delivery.
+
+TaskFlow – Smart Task Management System
+
+A full-stack SaaS application serving 200+ users, built with ASP.NET Core, Angular, SQL Server, JWT authentication, and real-time features. The project demonstrates strong backend fundamentals, secure authentication, scalable architecture, and clean frontend integration.
+
+Microservices-Based Online Food Ordering System
+
+A backend-intensive system designed using microservices architecture, implemented with .NET, REST/gRPC communication, Docker, and Kubernetes. This project showcases my understanding of scalable backend engineering, service isolation, and cloud-native design.
+
+COVID-19 Data Analysis Dashboard
+
+A data-driven web dashboard developed using Python, Flask, Pandas, and Matplotlib to visualize real-world COVID-19 data. The project focuses on data preprocessing, visualization, and research-oriented decision support.
+
+Grayscale Image Processor (AWS Serverless)
+
+A serverless cloud application built with AWS Lambda, S3, and CloudWatch to automate image processing workflows. This project highlights my hands-on experience with event-driven architectures and cloud-native services.
+
+Across all projects, I focus on clean architecture, scalability, and long-term maintainability, not just getting something to “work.”
+
+🧩 How I Work
+
+I’m naturally curious, structured, and ownership-driven. I enjoy breaking complex problems into smaller, testable ideas and iterating quickly without losing sight of the bigger system. I’m comfortable working independently, but I thrive in collaborative environments where ideas are challenged respectfully and decisions are backed by reasoning.
+
+I take pride in:
+
+Strong problem-solving skills and calm debugging under pressure
+
+End-to-end ownership, from design to deployment
+
+Clear communication, especially when explaining complex technical ideas
+
+Mentorship and leadership, having led teams and guided junior developers
+
+A mindset of continuous learning, especially in fast-moving AI and cloud ecosystems
+
+🚀 What Drives Me
+
+I’m motivated by roles where I can design intelligent systems, work deeply with AI models and prompts, and ship real products—not just experiments. I’m especially excited about opportunities that combine AI engineering, backend systems, and thoughtful product design, where technical decisions directly shape user trust and experience.
+
+If you’re exploring my repositories, you’ll find not just code—but experiments, trade-offs, and learning in motion. That’s how I grow as an engineer, and that’s how I aim to create impact.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaswanthrahul/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashwanthrahul5126@gmail.com) 
 
