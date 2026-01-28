@@ -1,10 +1,10 @@
 Hi, I’m Yaswanth Rahul Yarlagadda.
 
-I’m a Full-Stack and AI Engineer, and I enjoy building systems end to end—starting from clean, thoughtful user interfaces, all the way down to scalable backend services and intelligent, AI-driven decision layers. My work lives at the intersection of software engineering, cloud platforms, Machine learnig and applied AI, and what motivates me most is solving problems where technology genuinely helps people understand complex things or work more effectively.
+I’m a Full-Stack and AI Engineer, and I enjoy building systems end to end,starting from clean, thoughtful user interfaces, all the way down to scalable backend services and intelligent, AI-driven decision layers. My work lives at the intersection of software engineering, cloud platforms, Machine learnig and applied AI, and what motivates me most is solving problems where technology genuinely helps people understand complex things or work more effectively.
 
 I didn’t arrive at AI by chasing trends. I came here through engineering.
 
-I started by building full-stack applications—working with React, Angular, .NET, and Python, and deploying systems on AWS, Azure, and GCP. Over time, I realized I was most interested not just in using tools, but in understanding how systems behave under real constraints—scale, latency, security, and maintainability. That curiosity naturally led me into AI engineering.
+I started by building full-stack applications working with React, Angular, .NET, and Python, and deploying systems on AWS, Azure, and GCP. Over time, I realized I was most interested not just in using tools, but in understanding how systems behave under real constraints scale, latency, security, and maintainability. That curiosity naturally led me into AI engineering.
 
 What draws me to AI roles is the chance to go deeper than “calling a model.” I care about how models reason, how prompts shape behavior, and how context is managed. I actively experiment with prompt engineering, Retrieval-Augmented Generation, and multi-LLM orchestration, focusing on reliability, explainability, and reducing hallucinations in production systems. For me, AI is not magic—it’s a system that needs to be designed carefully.
 
@@ -23,7 +23,7 @@ I’m structured, curious, and calm under pressure. I like breaking complex prob
 What ultimately drives me is this:
 I want to design intelligent systems that people can trust. I want to work on products where AI decisions matter, where backend reliability matters, and where good engineering directly shapes user experience.
 
-If you explore my work, you won’t just see finished code. You’ll see experiments, trade-offs, and learning in progress. That’s how I grow as an engineer—and that’s how I aim to create real impact.
+If you explore my work, you won’t just see finished code. You’ll see experiments, trade-offs, and learning in progress. That’s how I grow as an engineer and that’s how I aim to create real impact.
 
 🧠 What I Build (Selected Work)
 
